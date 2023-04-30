@@ -1,0 +1,27 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+}
+
+.CareConnectLogo {
+  width: 600px;
+  height: 600px;
+  object-fit: scale-down;
+}
+
+.logodiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  border-radius: 5px;
+}
+
+.navbar {
+  margin: auto;
+  border-radius: 20px;
+  width: 500px;
+}

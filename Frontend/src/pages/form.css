@@ -1,0 +1,27 @@
+.consumerForm {
+  text-align: center;
+}
+
+.Space {
+  margin-top: 1rem;
+}
+
+.Title {
+  color: black;
+}
+
+body {
+  background-image: linear-gradient(to bottom left, #ffafbd, #ffc3a0);
+}
+
+.textbox {
+  padding: 0;
+  height: 30px;
+  position: relative;
+  left: 0;
+  outline: 2px inset black;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(0,0,0,.15);
+  background-color: white;
+  font-size: 16px;
+}
